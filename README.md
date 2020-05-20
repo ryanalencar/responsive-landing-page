@@ -1,5 +1,9 @@
 # responsive-landing-page
-A landing page model
+
+<p align="justify">
+  A landing page model
+</p>
+
 
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
 [![ForTheBadge uses-html](http://ForTheBadge.com/images/badges/uses-html.svg)](http://ForTheBadge.com)
